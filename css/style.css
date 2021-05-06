@@ -1,0 +1,24 @@
+body{
+	background-color: lightgrey;
+}
+
+#header{ 
+	background:url(https://as.ftcdn.net/r/v1/pics/6cdeedfd6d939e72a201f3b49cb7cc1e55b96864/home/hero-images/Dec20/homepage-hero-4.jpg) center 0; 
+}
+
+#header h1{
+	font-size:55px;
+}
+
+#showcase{ 
+	background:url(https://i.pinimg.com/originals/d9/45/db/d945db4e579a152e033c40c1a2982894.jpg) center;
+	background-size: cover;
+}
+
+.carousel-caption h5 span, .carousel-caption p span{
+	background-color: rgba(0, 0, 0, 0.5);
+	width: fit-content;
+	justify-content: center;
+}
+
+
